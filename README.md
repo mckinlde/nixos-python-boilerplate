@@ -1,6 +1,6 @@
 ### A boilerplate repo for doing Python Development on NixOS
 
-Built with painstaking lessons leared in (previous attempts)[https://github.com/mckinlde/python-in-nix-experiments]
+Built with painstaking lessons leared in [previous attempts](https://github.com/mckinlde/python-in-nix-experiments)
 
 To get started, pull the repo, and then run the following to test:
 ```bash
