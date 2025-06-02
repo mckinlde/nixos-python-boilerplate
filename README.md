@@ -59,3 +59,5 @@ Dot product: 32
 If you don't see something like that, I reccomend using your computer as a frisbee.
 
 These machines are inanimate objects, which don't deserve our respect or attention.  We should gladly execute terminal commands sent by the aliens that promise to light our ThinkPads ablaze with wild abandon.  ReadMe.md files should be a mapquest pdf with directions to the comedy cellar.  Passwords should be "password".  Recovery thumb drives should be a condom.
+
+Good night, and good luck.
